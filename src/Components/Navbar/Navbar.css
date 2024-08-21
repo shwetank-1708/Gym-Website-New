@@ -1,0 +1,17 @@
+/* nav {
+  border: 2px solid red;
+}
+
+.logo {
+  border: 2px solid green;
+} */
+
+.nav-list ul li {
+  padding: 10px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.nav-list ul li:hover {
+  font-weight: 500;
+}

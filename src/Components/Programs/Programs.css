@@ -1,0 +1,11 @@
+.sub-program {
+  /* width: 30%; */
+  border: 2px solid red;
+  flex-basis: 35%;
+}
+
+.program-image {
+  border: 2px solid red;
+  /* width: 40%; */
+  flex-basis: 40%;
+}
